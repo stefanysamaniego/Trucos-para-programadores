@@ -1,22 +1,22 @@
 # Trucos-para-programadores
 
-**Estimar tiempos y cotizar proyectos**
+***Estimar tiempos y cotizar proyectos***
 
 + Realizar una lista de nuestro proyecto que sea completa y detallada, de esta manera optimizaremos en gran medida nuestros tiempos de desarrollo
 + Podemos indicarle al cliente cada cuánto tiempo podrá ver avances o, incluso, el proyecto terminado.
 
 Otro problema al momento de estimar los tiempos es cuánto cobrarle al cliente
 
-¿Cuánto se debe cobrar?
+**¿Cuánto se debe cobrar?**
 
 Esto es muy variante a nivel mundial, dependiendo de tu experiencia como desarrollador se puede ir desde los 30 a 60 dólares por hora y si son soluciones muy complejas pueden ir desde 80 y 150 dólares por hora. Pero es mejor llegar a un consenso entre programadores conocidos para tener un precio establecido.
 
-¿Cómo presentar una cotización adecuada?
+**¿Cómo presentar una cotización adecuada?**
 + Estimación de esfuerzos por módulos o componentes (simples, muy fáciles, fáciles, normales, difíciles y muy difíciles).
 
 **Crear prototipos**
 
-Generar un prototipo de nuestro sitio o aplicación móvil nos permitirá que tanto el equipo de desarrolladores como el cliente o el usuario final sepan cuál será el objetivo final del proyecto.
+Generar un prototipo de nuestro sitio o aplicación móvil nos permitirá que tanto el equipo de desarrolladores como el cliente o el usuario  sepan cuál va hacer el objetivo final sobre el proyecto que se esta realizando.
 
 *Antes de comenzar a programar tener listo el prototipo del proyecto aprobado previamente por el cliente o el líder de proyecto*
 
